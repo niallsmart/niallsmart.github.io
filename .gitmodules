@@ -1,0 +1,3 @@
+[submodule "megaman"]
+	path = megaman
+	url = https://github.com/niallsmart/megaman
